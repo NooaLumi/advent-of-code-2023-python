@@ -7,7 +7,7 @@ from functools import reduce
 Advent of Code - Day 1 Part 2
 
 Get the input from https://adventofcode.com/2023/day/1/input, save it to a file and feed it to stdin
-ex. `python day_one_pt_2.py < day_one_input.txt` 
+ex. `python 01_part2.py < day_one_input.txt` 
 """
 
 """Map of english words for digits to numeric digits"""

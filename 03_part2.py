@@ -7,7 +7,7 @@ from functools import reduce, partial
 Advent of Code - Day 3: Gear Ratios
 
 Get the input from https://adventofcode.com/2023/day/3/input, save it to a file and feed it to stdin
-ex. `python day_three.py < day_three_input.txt` 
+ex. `python 03_part2.py < day_three_input.txt` 
 """
 
 def get_test_data():

@@ -7,7 +7,7 @@ from functools import reduce
 Advent of Code - Day 2 Part 2
 
 Get the input from https://adventofcode.com/2023/day/2/input, save it to a file and feed it to stdin
-ex. `python day_two_pt_2.py < day_two_input.txt` 
+ex. `python 02_part2.py < day_two_input.txt` 
 """
 
 def get_test_data():

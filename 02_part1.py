@@ -7,7 +7,7 @@ from functools import reduce
 Advent of Code - Day 2: Cube Conundrum 
 
 Get the input from https://adventofcode.com/2023/day/2/input, save it to a file and feed it to stdin
-ex. `python day_two.py < day_two_input.txt` 
+ex. `python 02_part1.py < day_two_input.txt` 
 """
 
 # Color and number of cubes that can appear at once
