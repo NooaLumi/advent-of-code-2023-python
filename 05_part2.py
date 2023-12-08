@@ -2,8 +2,6 @@ import sys
 import re
 from typing import Callable
 
-sys.setrecursionlimit(1500)
-
 
 """
 Advent of Code - Day 5: If You Give A Seed A Fertilizer
