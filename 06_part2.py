@@ -1,13 +1,12 @@
 import sys
 import re
-from functools import reduce
 
 
 """
 Advent of Code - Day 6: Wait For It
 
 Get the input from https://adventofcode.com/2023/day/6/input, save it to a file and feed it to stdin
-ex. `python 06_part1.py < day_six_input.txt` 
+ex. `python 06_part2.py < day_six_input.txt` 
 """
 
 def get_test_data():
