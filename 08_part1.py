@@ -44,9 +44,6 @@ def main() -> int:
 
         current_node = network[current_node][direction]
 
-        if current_node == 'ZZZ':
-            break
-
     result = step_count
     print(result)
 
